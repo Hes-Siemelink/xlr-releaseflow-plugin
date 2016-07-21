@@ -1,0 +1,10 @@
+{
+  "generator-xl-release-plugin": {
+    "pluginName": "xlr-releaseflow-plugin",
+    "kebabPluginName": "xlr-releaseflow-plugin",
+    "namespace": "releaseFlow",
+    "xlrFeatures": [
+      "tasks"
+    ]
+  }
+}

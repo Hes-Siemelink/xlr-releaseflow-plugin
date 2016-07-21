@@ -1,0 +1,11 @@
+<synthetic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://www.xebialabs.com/deployit/synthetic"
+           xsi:schemaLocation="http://www.xebialabs.com/deployit/synthetic synthetic.xsd">
+           
+    
+	       <type type="releaseFlow.CompleteTask" extends="xlrelease.PythonScript">
+	           <property category="input" name="releaseId" label="Release ID" description="The ID of the release to complete a task in. This can be the output variable of a Create Release task."/>
+	           <property category="input" name="taskTitle" description="The title of the task to complete."/>
+	       </type >
+
+</synthetic>
